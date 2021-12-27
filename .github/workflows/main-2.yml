@@ -4681,7 +4681,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-acl is not set
           # CONFIG_PACKAGE_luci-app-acme is not set
           # CONFIG_PACKAGE_luci-app-adblock is not set
-          # CONFIG_PACKAGE_luci-app-adbyby-plus is not set
+          CONFIG_PACKAGE_luci-app-adbyby-plus=y
           # CONFIG_PACKAGE_luci-app-adguardhome is not set
           # CONFIG_PACKAGE_luci-app-advanced is not set
           # CONFIG_PACKAGE_luci-app-advanced-reboot is not set
@@ -4690,7 +4690,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-aliddns is not set
           # CONFIG_PACKAGE_luci-app-aliyundrive-webdav is not set
           # CONFIG_PACKAGE_luci-app-amule is not set
-          # CONFIG_PACKAGE_luci-app-argon-config is not set
+          CONFIG_PACKAGE_luci-app-argon-config=y
           # CONFIG_PACKAGE_luci-app-argonne-config is not set
           # CONFIG_PACKAGE_luci-app-aria2 is not set
           # CONFIG_PACKAGE_luci-app-arpbind is not set
@@ -4700,7 +4700,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-autorepeater is not set
           # CONFIG_PACKAGE_luci-app-autotimeset is not set
           # CONFIG_PACKAGE_luci-app-babeld is not set
-          # CONFIG_PACKAGE_luci-app-baidupcs-web is not set
+          CONFIG_PACKAGE_luci-app-baidupcs-web=y
           # CONFIG_PACKAGE_luci-app-banip is not set
           # CONFIG_PACKAGE_luci-app-bcp38 is not set
           # CONFIG_PACKAGE_luci-app-beardropper is not set
@@ -4879,7 +4879,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-shortcutmenu is not set
           # CONFIG_PACKAGE_luci-app-siitwizard is not set
           # CONFIG_PACKAGE_luci-app-simple-adblock is not set
-          # CONFIG_PACKAGE_luci-app-smartdns is not set
+          CONFIG_PACKAGE_luci-app-smartdns=y
           # CONFIG_PACKAGE_luci-app-sms-tool is not set
           # CONFIG_PACKAGE_luci-app-snmpd is not set
           # CONFIG_PACKAGE_luci-app-socat is not set
@@ -4972,17 +4972,17 @@ jobs:
           #
           CONFIG_PACKAGE_luci-theme-argon=y
           # CONFIG_PACKAGE_luci-theme-argon-lr is not set
-          CONFIG_PACKAGE_luci-theme-argonne=y
-          CONFIG_PACKAGE_luci-theme-atmaterial_new=y
+          # CONFIG_PACKAGE_luci-theme-argonne is not set
+          # CONFIG_PACKAGE_luci-theme-atmaterial_new is not set
           CONFIG_PACKAGE_luci-theme-bootstrap=y
-          CONFIG_PACKAGE_luci-theme-edge=y
-          CONFIG_PACKAGE_luci-theme-ifit=y
-          CONFIG_PACKAGE_luci-theme-material=y
-          CONFIG_PACKAGE_luci-theme-mcat=y
-          CONFIG_PACKAGE_luci-theme-netgear=y
-          CONFIG_PACKAGE_luci-theme-openwrt=y
-          CONFIG_PACKAGE_luci-theme-openwrt-2020=y
-          CONFIG_PACKAGE_luci-theme-tomato=y
+          # CONFIG_PACKAGE_luci-theme-edge is not set
+          # CONFIG_PACKAGE_luci-theme-ifit is not set
+          # CONFIG_PACKAGE_luci-theme-material is not set
+          # CONFIG_PACKAGE_luci-theme-mcat is not set
+          # CONFIG_PACKAGE_luci-theme-netgear is not set
+          # CONFIG_PACKAGE_luci-theme-openwrt is not set
+          # CONFIG_PACKAGE_luci-theme-openwrt-2020 is not set
+          # CONFIG_PACKAGE_luci-theme-tomato is not set
           # end of 4. Themes
 
           #
