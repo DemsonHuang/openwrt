@@ -4706,7 +4706,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-autorepeater is not set
           # CONFIG_PACKAGE_luci-app-autotimeset is not set
           # CONFIG_PACKAGE_luci-app-babeld is not set
-          CONFIG_PACKAGE_luci-app-baidupcs-web=y
+          # CONFIG_PACKAGE_luci-app-baidupcs-web is not set
           # CONFIG_PACKAGE_luci-app-banip is not set
           # CONFIG_PACKAGE_luci-app-bcp38 is not set
           # CONFIG_PACKAGE_luci-app-beardropper is not set
